@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { OpenAI } from "openai";
 import ingredients from "../ingredients.json";
 import Poio2 from "../assets/poio2.png";
 import Table from "../components/Table";
@@ -7,10 +6,6 @@ import Modal from "../components/Modal";
 import AlertModal from "../components/AlertModal";
 
 const Home = () => {
-  const openai = new OpenAI({
-    apiKey: "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",
-    dangerouslyAllowBrowser: true,
-  });
   const [page, setPage] = useState(1);
   const [searchText, setSearchText] = useState("");
   const [selectedCategory, setSelectedCategory] = useState("");
