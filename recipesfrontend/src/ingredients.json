@@ -1,0 +1,312 @@
+[
+  {
+    "id": 1,
+    "name": "Tomate",
+    "category": "Vegetales"
+  },
+  {
+    "id": 2,
+    "name": "Zanahoria",
+    "category": "Vegetales"
+  },
+  {
+    "id": 3,
+    "name": "Brócoli",
+    "category": "Vegetales"
+  },
+  {
+    "id": 4,
+    "name": "Espinacas",
+    "category": "Vegetales"
+  },
+  {
+    "id": 5,
+    "name": "Pimenton",
+    "category": "Vegetales"
+  },
+  {
+    "id": 6,
+    "name": "Calabacín",
+    "category": "Vegetales"
+  },
+  {
+    "id": 7,
+    "name": "Champiñones",
+    "category": "Vegetales"
+  },
+  {
+    "id": 8,
+    "name": "Cebolla",
+    "category": "Vegetales"
+  },
+  {
+    "id": 9,
+    "name": "Ajo",
+    "category": "Vegetales"
+  },
+  {
+    "id": 10,
+    "name": "Pepino",
+    "category": "Vegetales"
+  },
+  {
+    "id": 11,
+    "name": "Lechuga",
+    "category": "Vegetales"
+  },
+  {
+    "id": 12,
+    "name": "Calbaza",
+    "category": "Vegetales"
+  },
+  {
+    "id": 13,
+    "name": "Rábano",
+    "category": "Vegetales"
+  },
+  {
+    "id": 14,
+    "name": "Maíz",
+    "category": "Vegetales"
+  },
+  {
+    "id": 15,
+    "name": "Papa",
+    "category": "Vegetales"
+  },
+  {
+    "id": 16,
+    "name": "Pollo",
+    "category": "Proteínas"
+  },
+  {
+    "id": 17,
+    "name": "Pavo",
+    "category": "Proteínas"
+  },
+  {
+    "id": 18,
+    "name": "Ternera",
+    "category": "Proteínas"
+  },
+  {
+    "id": 19,
+    "name": "Cordero",
+    "category": "Proteínas"
+  },
+  {
+    "id": 20,
+    "name": "Cerdo",
+    "category": "Proteínas"
+  },
+  {
+    "id": 21,
+    "name": "Salmón",
+    "category": "Proteínas"
+  },
+  {
+    "id": 22,
+    "name": "Atún",
+    "category": "Proteínas"
+  },
+  {
+    "id": 23,
+    "name": "Trucha",
+    "category": "Proteínas"
+  },
+  {
+    "id": 24,
+    "name": "Camarones",
+    "category": "Proteínas"
+  },
+  {
+    "id": 25,
+    "name": "Huevos",
+    "category": "Proteínas"
+  },
+  {
+    "id": 26,
+    "name": "Lomo de cerdo",
+    "category": "Proteínas"
+  },
+  {
+    "id": 27,
+    "name": "Jamón",
+    "category": "Proteínas"
+  },
+  {
+    "id": 28,
+    "name": "Sal",
+    "category": "Condimentos y hiervas"
+  },
+  {
+    "id": 29,
+    "name": "Pimienta",
+    "category": "Condimentos y hiervas"
+  },
+  {
+    "id": 30,
+    "name": "Aceite de oliva",
+    "category": "Condimentos y hiervas"
+  },
+  {
+    "id": 31,
+    "name": "Salsa de soja",
+    "category": "Condimentos y hiervas"
+  },
+  {
+    "id": 32,
+    "name": "Vinagre balsámico",
+    "category": "Condimentos y hiervas"
+  },
+  {
+    "id": 33,
+    "name": "Comino",
+    "category": "Condimentos y hiervas"
+  },
+  {
+    "id": 34,
+    "name": "Perejil",
+    "category": "Condimentos y hiervas"
+  },
+  {
+    "id": 35,
+    "name": "Albahaca",
+    "category": "Condimentos y hiervas"
+  },
+  {
+    "id": 36,
+    "name": "Romero",
+    "category": "Condimentos y hiervas"
+  },
+  {
+    "id": 37,
+    "name": "Cilantro",
+    "category": "Condimentos y hiervas"
+  },
+  {
+    "id": 38,
+    "name": "Orégano",
+    "category": "Condimentos y hiervas"
+  },
+  {
+    "id": 39,
+    "name": "Tomillo",
+    "category": "Condimentos y hiervas"
+  },
+  {
+    "id": 40,
+    "name": "Cúrcuma",
+    "category": "Condimentos y hiervas"
+  },
+  {
+    "id": 41,
+    "name": "Jengibre",
+    "category": "Condimentos y hiervas"
+  },
+  {
+    "id": 42,
+    "name": "Arroz",
+    "category": "Otros ingredientes"
+  },
+  {
+    "id": 43,
+    "name": "Pasta",
+    "category": "Otros ingredientes"
+  },
+  {
+    "id": 44,
+    "name": "Pan",
+    "category": "Otros ingredientes"
+  },
+  {
+    "id": 45,
+    "name": "Leche",
+    "category": "Otros ingredientes"
+  },
+  {
+    "id": 46,
+    "name": "Queso",
+    "category": "Otros ingredientes"
+  },
+  {
+    "id": 47,
+    "name": "Mantequilla",
+    "category": "Otros ingredientes"
+  },
+  {
+    "id": 48,
+    "name": "Yogur",
+    "category": "Otros ingredientes"
+  },
+  {
+    "id": 49,
+    "name": "Harina",
+    "category": "Otros ingredientes"
+  },
+  {
+    "id": 50,
+    "name": "Azúcar",
+    "category": "Otros ingredientes"
+  },
+  {
+    "id": 51,
+    "name": "Miel",
+    "category": "Otros ingredientes"
+  },
+  {
+    "id": 52,
+    "name": "Almendras",
+    "category": "Otros ingredientes"
+  },
+  {
+    "id": 53,
+    "name": "Avellanas",
+    "category": "Otros ingredientes"
+  },
+  {
+    "id": 54,
+    "name": "Nueces",
+    "category": "Otros ingredientes"
+  },
+  {
+    "id": 55,
+    "name": "Garbanzos",
+    "category": "Legumbres"
+  },
+  {
+    "id": 56,
+    "name": "Lentejas",
+    "category": "Legumbres"
+  },
+  {
+    "id": 57,
+    "name": "Frijoles",
+    "category": "Legumbres"
+  },
+  {
+    "id": 58,
+    "name": "Guisantes",
+    "category": "Legumbres"
+  },
+  {
+    "id": 59,
+    "name": "Alubias",
+    "category": "Legumbres"
+  },
+  {
+    "id": 60,
+    "name": "Habas",
+    "category": "Legumbres"
+  },
+  {
+    "id": 61,
+    "name": "Alberjas",
+    "category": "Legumbres"
+  },
+  {
+    "id": 62,
+    "name": "Pescado",
+    "category": "Proteínas"
+  }
+]
